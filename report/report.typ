@@ -141,7 +141,7 @@ katram piemēram. Noslodzes variantos atšķiras arī treniņi, tāpēc iekārtu
 ietekme nav izolēta. Lielo piemēru SA rezultātiem nav optimalitātes garantijas.
 
 = Programmas kods un testa piemēri
-*GitHub repozitorijs:* #text(fill: rgb("#9b3c22"))[\[IEVIETOT GITHUB REPOZITORIJA SAITI\]]
+*GitHub repozitorijs:* #link("https://github.com/GunarsA/LU-PKO-Md1")
 
 Repozitorijā ir Python kods, JSON testa piemēri, CSV mērījumi un palaišanas
 instrukcija. Eksperimentus atkārto ar `python main.py experiments`;

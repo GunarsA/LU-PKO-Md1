@@ -5,13 +5,13 @@ Dokuments ietver prasītās sadaļas, faktiskos eksperimentu rezultātus, divus 
 grafikus, SA konverģences līkni un algoritma plūsmas diagrammu. Diagramma ir
 rediģējama failā `sa_diagram.typ` un izmanto tikai Typst iebūvētos elementus.
 
-Pirms iesniegšanas avota pēdējā sadaļā aizstāj
-`[IEVIETOT GITHUB REPOZITORIJA SAITI]` ar sava repozitorija URL un pārkompilē PDF.
+Pārskatā ir iekļauta saite uz repozitoriju:
+[GunarsA/LU-PKO-Md1](https://github.com/GunarsA/LU-PKO-Md1).
 
 Ar instalētu Typst, no projekta galvenās mapes:
 
 ```console
-typst compile report_latvian/report.typ report_latvian/report.pdf
+typst compile report/report.typ report/report.pdf
 ```
 
 Mapē `assets` ir mērījumu CSV kopija, ilustrāciju izpildes JSON kopijas,
@@ -22,8 +22,8 @@ Ja vēlies pārgatavot attēlus un tabulu no projekta aktuālajiem rezultātiem:
 
 ```console
 python -m pip install -r requirements.txt
-python report_latvian/prepare_assets.py
-typst compile report_latvian/report.typ report_latvian/report.pdf
+python report/prepare_assets.py
+typst compile report/report.typ report/report.pdf
 ```
 
 Sagatavošanas skripts izmanto `results/experiments.csv`,
