@@ -1,0 +1,22 @@
+{
+  "name": "one_person",
+  "people": [
+    {
+      "id": "P1",
+      "exercises": [
+        {
+          "equipment": "A",
+          "duration": 3
+        },
+        {
+          "equipment": "B",
+          "duration": 2
+        },
+        {
+          "equipment": "A",
+          "duration": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "manual_conflict",
+  "people": [
+    {
+      "id": "P1",
+      "exercises": [
+        {
+          "equipment": "A",
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "exercises": [
+        {
+          "equipment": "A",
+          "duration": 1
+        }
+      ]
+    }
+  ]
+}

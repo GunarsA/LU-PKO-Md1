@@ -1,0 +1,2 @@
+# Optional: only required for --plot-dir
+matplotlib>=3.7,<4

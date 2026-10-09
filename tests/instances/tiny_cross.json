@@ -1,0 +1,31 @@
+{
+  "name": "tiny_cross",
+  "people": [
+    {
+      "id": "P1",
+      "exercises": [
+        {
+          "equipment": "A",
+          "duration": 2
+        },
+        {
+          "equipment": "B",
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "exercises": [
+        {
+          "equipment": "B",
+          "duration": 2
+        },
+        {
+          "equipment": "A",
+          "duration": 1
+        }
+      ]
+    }
+  ]
+}

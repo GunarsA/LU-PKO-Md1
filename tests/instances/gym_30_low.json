@@ -1,0 +1,847 @@
+{
+  "name": "gym_30_low",
+  "people": [
+    {
+      "id": "P1",
+      "exercises": [
+        {
+          "equipment": "E11",
+          "duration": 4
+        },
+        {
+          "equipment": "E10",
+          "duration": 9
+        },
+        {
+          "equipment": "E2",
+          "duration": 3
+        },
+        {
+          "equipment": "E10",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "exercises": [
+        {
+          "equipment": "E5",
+          "duration": 3
+        },
+        {
+          "equipment": "E1",
+          "duration": 4
+        },
+        {
+          "equipment": "E6",
+          "duration": 8
+        },
+        {
+          "equipment": "E7",
+          "duration": 3
+        },
+        {
+          "equipment": "E5",
+          "duration": 3
+        },
+        {
+          "equipment": "E7",
+          "duration": 5
+        },
+        {
+          "equipment": "E11",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "exercises": [
+        {
+          "equipment": "E11",
+          "duration": 8
+        },
+        {
+          "equipment": "E4",
+          "duration": 10
+        },
+        {
+          "equipment": "E4",
+          "duration": 2
+        },
+        {
+          "equipment": "E7",
+          "duration": 2
+        },
+        {
+          "equipment": "E8",
+          "duration": 5
+        },
+        {
+          "equipment": "E1",
+          "duration": 2
+        },
+        {
+          "equipment": "E2",
+          "duration": 10
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "exercises": [
+        {
+          "equipment": "E7",
+          "duration": 4
+        },
+        {
+          "equipment": "E9",
+          "duration": 2
+        },
+        {
+          "equipment": "E7",
+          "duration": 2
+        },
+        {
+          "equipment": "E5",
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "id": "P5",
+      "exercises": [
+        {
+          "equipment": "E1",
+          "duration": 7
+        },
+        {
+          "equipment": "E10",
+          "duration": 5
+        },
+        {
+          "equipment": "E12",
+          "duration": 9
+        },
+        {
+          "equipment": "E7",
+          "duration": 4
+        },
+        {
+          "equipment": "E11",
+          "duration": 10
+        },
+        {
+          "equipment": "E8",
+          "duration": 8
+        },
+        {
+          "equipment": "E11",
+          "duration": 7
+        }
+      ]
+    },
+    {
+      "id": "P6",
+      "exercises": [
+        {
+          "equipment": "E2",
+          "duration": 5
+        },
+        {
+          "equipment": "E12",
+          "duration": 7
+        },
+        {
+          "equipment": "E7",
+          "duration": 4
+        },
+        {
+          "equipment": "E7",
+          "duration": 8
+        },
+        {
+          "equipment": "E5",
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "id": "P7",
+      "exercises": [
+        {
+          "equipment": "E7",
+          "duration": 4
+        },
+        {
+          "equipment": "E5",
+          "duration": 4
+        },
+        {
+          "equipment": "E4",
+          "duration": 1
+        },
+        {
+          "equipment": "E1",
+          "duration": 6
+        },
+        {
+          "equipment": "E7",
+          "duration": 10
+        },
+        {
+          "equipment": "E4",
+          "duration": 3
+        },
+        {
+          "equipment": "E11",
+          "duration": 9
+        },
+        {
+          "equipment": "E10",
+          "duration": 6
+        }
+      ]
+    },
+    {
+      "id": "P8",
+      "exercises": [
+        {
+          "equipment": "E11",
+          "duration": 5
+        },
+        {
+          "equipment": "E3",
+          "duration": 2
+        },
+        {
+          "equipment": "E12",
+          "duration": 1
+        },
+        {
+          "equipment": "E11",
+          "duration": 8
+        }
+      ]
+    },
+    {
+      "id": "P9",
+      "exercises": [
+        {
+          "equipment": "E1",
+          "duration": 5
+        },
+        {
+          "equipment": "E7",
+          "duration": 3
+        },
+        {
+          "equipment": "E1",
+          "duration": 8
+        },
+        {
+          "equipment": "E7",
+          "duration": 8
+        },
+        {
+          "equipment": "E8",
+          "duration": 2
+        },
+        {
+          "equipment": "E4",
+          "duration": 5
+        },
+        {
+          "equipment": "E11",
+          "duration": 7
+        }
+      ]
+    },
+    {
+      "id": "P10",
+      "exercises": [
+        {
+          "equipment": "E5",
+          "duration": 2
+        },
+        {
+          "equipment": "E2",
+          "duration": 10
+        },
+        {
+          "equipment": "E2",
+          "duration": 2
+        },
+        {
+          "equipment": "E6",
+          "duration": 8
+        },
+        {
+          "equipment": "E10",
+          "duration": 1
+        },
+        {
+          "equipment": "E5",
+          "duration": 8
+        }
+      ]
+    },
+    {
+      "id": "P11",
+      "exercises": [
+        {
+          "equipment": "E9",
+          "duration": 7
+        },
+        {
+          "equipment": "E5",
+          "duration": 10
+        },
+        {
+          "equipment": "E12",
+          "duration": 10
+        },
+        {
+          "equipment": "E5",
+          "duration": 10
+        },
+        {
+          "equipment": "E5",
+          "duration": 10
+        }
+      ]
+    },
+    {
+      "id": "P12",
+      "exercises": [
+        {
+          "equipment": "E10",
+          "duration": 2
+        },
+        {
+          "equipment": "E2",
+          "duration": 4
+        },
+        {
+          "equipment": "E2",
+          "duration": 4
+        },
+        {
+          "equipment": "E3",
+          "duration": 9
+        }
+      ]
+    },
+    {
+      "id": "P13",
+      "exercises": [
+        {
+          "equipment": "E2",
+          "duration": 7
+        },
+        {
+          "equipment": "E2",
+          "duration": 4
+        },
+        {
+          "equipment": "E9",
+          "duration": 3
+        },
+        {
+          "equipment": "E11",
+          "duration": 3
+        },
+        {
+          "equipment": "E12",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": "P14",
+      "exercises": [
+        {
+          "equipment": "E1",
+          "duration": 5
+        },
+        {
+          "equipment": "E2",
+          "duration": 5
+        },
+        {
+          "equipment": "E1",
+          "duration": 7
+        },
+        {
+          "equipment": "E1",
+          "duration": 4
+        },
+        {
+          "equipment": "E1",
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "id": "P15",
+      "exercises": [
+        {
+          "equipment": "E12",
+          "duration": 10
+        },
+        {
+          "equipment": "E5",
+          "duration": 1
+        },
+        {
+          "equipment": "E1",
+          "duration": 7
+        },
+        {
+          "equipment": "E12",
+          "duration": 3
+        },
+        {
+          "equipment": "E5",
+          "duration": 2
+        },
+        {
+          "equipment": "E1",
+          "duration": 6
+        }
+      ]
+    },
+    {
+      "id": "P16",
+      "exercises": [
+        {
+          "equipment": "E3",
+          "duration": 1
+        },
+        {
+          "equipment": "E5",
+          "duration": 6
+        },
+        {
+          "equipment": "E6",
+          "duration": 3
+        },
+        {
+          "equipment": "E4",
+          "duration": 5
+        },
+        {
+          "equipment": "E1",
+          "duration": 9
+        },
+        {
+          "equipment": "E2",
+          "duration": 6
+        },
+        {
+          "equipment": "E9",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": "P17",
+      "exercises": [
+        {
+          "equipment": "E7",
+          "duration": 4
+        },
+        {
+          "equipment": "E4",
+          "duration": 1
+        },
+        {
+          "equipment": "E1",
+          "duration": 5
+        },
+        {
+          "equipment": "E11",
+          "duration": 8
+        },
+        {
+          "equipment": "E10",
+          "duration": 8
+        }
+      ]
+    },
+    {
+      "id": "P18",
+      "exercises": [
+        {
+          "equipment": "E12",
+          "duration": 4
+        },
+        {
+          "equipment": "E12",
+          "duration": 5
+        },
+        {
+          "equipment": "E9",
+          "duration": 7
+        },
+        {
+          "equipment": "E1",
+          "duration": 4
+        },
+        {
+          "equipment": "E4",
+          "duration": 9
+        },
+        {
+          "equipment": "E10",
+          "duration": 6
+        },
+        {
+          "equipment": "E6",
+          "duration": 8
+        },
+        {
+          "equipment": "E5",
+          "duration": 10
+        }
+      ]
+    },
+    {
+      "id": "P19",
+      "exercises": [
+        {
+          "equipment": "E3",
+          "duration": 10
+        },
+        {
+          "equipment": "E5",
+          "duration": 1
+        },
+        {
+          "equipment": "E9",
+          "duration": 10
+        },
+        {
+          "equipment": "E7",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": "P20",
+      "exercises": [
+        {
+          "equipment": "E6",
+          "duration": 7
+        },
+        {
+          "equipment": "E4",
+          "duration": 2
+        },
+        {
+          "equipment": "E7",
+          "duration": 6
+        },
+        {
+          "equipment": "E12",
+          "duration": 8
+        },
+        {
+          "equipment": "E8",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": "P21",
+      "exercises": [
+        {
+          "equipment": "E10",
+          "duration": 9
+        },
+        {
+          "equipment": "E12",
+          "duration": 7
+        },
+        {
+          "equipment": "E12",
+          "duration": 2
+        },
+        {
+          "equipment": "E12",
+          "duration": 10
+        },
+        {
+          "equipment": "E6",
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "id": "P22",
+      "exercises": [
+        {
+          "equipment": "E1",
+          "duration": 9
+        },
+        {
+          "equipment": "E10",
+          "duration": 1
+        },
+        {
+          "equipment": "E1",
+          "duration": 7
+        },
+        {
+          "equipment": "E9",
+          "duration": 9
+        },
+        {
+          "equipment": "E12",
+          "duration": 6
+        },
+        {
+          "equipment": "E2",
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "id": "P23",
+      "exercises": [
+        {
+          "equipment": "E1",
+          "duration": 10
+        },
+        {
+          "equipment": "E4",
+          "duration": 8
+        },
+        {
+          "equipment": "E6",
+          "duration": 5
+        },
+        {
+          "equipment": "E1",
+          "duration": 2
+        },
+        {
+          "equipment": "E3",
+          "duration": 8
+        },
+        {
+          "equipment": "E2",
+          "duration": 9
+        },
+        {
+          "equipment": "E8",
+          "duration": 4
+        },
+        {
+          "equipment": "E6",
+          "duration": 7
+        }
+      ]
+    },
+    {
+      "id": "P24",
+      "exercises": [
+        {
+          "equipment": "E2",
+          "duration": 4
+        },
+        {
+          "equipment": "E3",
+          "duration": 9
+        },
+        {
+          "equipment": "E3",
+          "duration": 2
+        },
+        {
+          "equipment": "E12",
+          "duration": 4
+        },
+        {
+          "equipment": "E1",
+          "duration": 10
+        }
+      ]
+    },
+    {
+      "id": "P25",
+      "exercises": [
+        {
+          "equipment": "E11",
+          "duration": 10
+        },
+        {
+          "equipment": "E3",
+          "duration": 1
+        },
+        {
+          "equipment": "E6",
+          "duration": 4
+        },
+        {
+          "equipment": "E6",
+          "duration": 9
+        },
+        {
+          "equipment": "E6",
+          "duration": 8
+        },
+        {
+          "equipment": "E6",
+          "duration": 10
+        }
+      ]
+    },
+    {
+      "id": "P26",
+      "exercises": [
+        {
+          "equipment": "E7",
+          "duration": 3
+        },
+        {
+          "equipment": "E1",
+          "duration": 5
+        },
+        {
+          "equipment": "E5",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": "P27",
+      "exercises": [
+        {
+          "equipment": "E10",
+          "duration": 5
+        },
+        {
+          "equipment": "E1",
+          "duration": 10
+        },
+        {
+          "equipment": "E6",
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "id": "P28",
+      "exercises": [
+        {
+          "equipment": "E8",
+          "duration": 5
+        },
+        {
+          "equipment": "E10",
+          "duration": 7
+        },
+        {
+          "equipment": "E1",
+          "duration": 4
+        },
+        {
+          "equipment": "E8",
+          "duration": 6
+        },
+        {
+          "equipment": "E1",
+          "duration": 5
+        },
+        {
+          "equipment": "E11",
+          "duration": 3
+        },
+        {
+          "equipment": "E1",
+          "duration": 1
+        },
+        {
+          "equipment": "E12",
+          "duration": 9
+        }
+      ]
+    },
+    {
+      "id": "P29",
+      "exercises": [
+        {
+          "equipment": "E1",
+          "duration": 6
+        },
+        {
+          "equipment": "E3",
+          "duration": 8
+        },
+        {
+          "equipment": "E3",
+          "duration": 1
+        },
+        {
+          "equipment": "E10",
+          "duration": 6
+        },
+        {
+          "equipment": "E2",
+          "duration": 8
+        },
+        {
+          "equipment": "E5",
+          "duration": 2
+        },
+        {
+          "equipment": "E7",
+          "duration": 1
+        },
+        {
+          "equipment": "E11",
+          "duration": 10
+        }
+      ]
+    },
+    {
+      "id": "P30",
+      "exercises": [
+        {
+          "equipment": "E5",
+          "duration": 7
+        },
+        {
+          "equipment": "E9",
+          "duration": 10
+        },
+        {
+          "equipment": "E4",
+          "duration": 2
+        },
+        {
+          "equipment": "E8",
+          "duration": 2
+        },
+        {
+          "equipment": "E10",
+          "duration": 7
+        },
+        {
+          "equipment": "E9",
+          "duration": 9
+        },
+        {
+          "equipment": "E12",
+          "duration": 4
+        },
+        {
+          "equipment": "E5",
+          "duration": 3
+        }
+      ]
+    }
+  ]
+}

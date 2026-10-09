@@ -1,0 +1,36 @@
+{
+  "instance": "manual_conflict",
+  "total_waiting": 1,
+  "makespan": 4,
+  "waiting_by_person": {
+    "P1": 1,
+    "P2": 0
+  },
+  "operations": [
+    {
+      "person": "P2",
+      "exercise": 1,
+      "equipment": "A",
+      "start": 0,
+      "end": 1
+    },
+    {
+      "person": "P1",
+      "exercise": 1,
+      "equipment": "A",
+      "start": 1,
+      "end": 4
+    }
+  ],
+  "algorithm": "exact",
+  "optimal": true,
+  "status": "search completed",
+  "nodes": 5,
+  "max_nodes": 1000000,
+  "time_limit": 10.0,
+  "runtime_seconds": 0.000116499955765903,
+  "priority": [
+    "P2",
+    "P1"
+  ]
+}

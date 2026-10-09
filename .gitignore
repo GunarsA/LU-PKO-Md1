@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+# Keep actual experiment outputs and saved instances under version control.

@@ -1,0 +1,126 @@
+{
+  "name": "gym_05_low",
+  "people": [
+    {
+      "id": "P1",
+      "exercises": [
+        {
+          "equipment": "E5",
+          "duration": 10
+        },
+        {
+          "equipment": "E1",
+          "duration": 4
+        },
+        {
+          "equipment": "E4",
+          "duration": 5
+        },
+        {
+          "equipment": "E3",
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "exercises": [
+        {
+          "equipment": "E8",
+          "duration": 5
+        },
+        {
+          "equipment": "E3",
+          "duration": 9
+        },
+        {
+          "equipment": "E1",
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "exercises": [
+        {
+          "equipment": "E2",
+          "duration": 6
+        },
+        {
+          "equipment": "E7",
+          "duration": 7
+        },
+        {
+          "equipment": "E4",
+          "duration": 2
+        },
+        {
+          "equipment": "E6",
+          "duration": 7
+        },
+        {
+          "equipment": "E7",
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "exercises": [
+        {
+          "equipment": "E7",
+          "duration": 4
+        },
+        {
+          "equipment": "E8",
+          "duration": 6
+        },
+        {
+          "equipment": "E5",
+          "duration": 6
+        },
+        {
+          "equipment": "E7",
+          "duration": 7
+        }
+      ]
+    },
+    {
+      "id": "P5",
+      "exercises": [
+        {
+          "equipment": "E4",
+          "duration": 8
+        },
+        {
+          "equipment": "E4",
+          "duration": 9
+        },
+        {
+          "equipment": "E7",
+          "duration": 3
+        },
+        {
+          "equipment": "E5",
+          "duration": 6
+        },
+        {
+          "equipment": "E6",
+          "duration": 8
+        },
+        {
+          "equipment": "E4",
+          "duration": 4
+        },
+        {
+          "equipment": "E5",
+          "duration": 6
+        },
+        {
+          "equipment": "E4",
+          "duration": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "no_conflicts",
+  "people": [
+    {
+      "id": "P1",
+      "exercises": [
+        {
+          "equipment": "A",
+          "duration": 2
+        },
+        {
+          "equipment": "B",
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "exercises": [
+        {
+          "equipment": "C",
+          "duration": 4
+        },
+        {
+          "equipment": "D",
+          "duration": 2
+        }
+      ]
+    }
+  ]
+}

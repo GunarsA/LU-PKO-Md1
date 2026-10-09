@@ -1,0 +1,35 @@
+{
+  "name": "tiny_repeated",
+  "people": [
+    {
+      "id": "P1",
+      "exercises": [
+        {
+          "equipment": "A",
+          "duration": 2
+        },
+        {
+          "equipment": "B",
+          "duration": 1
+        },
+        {
+          "equipment": "A",
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "exercises": [
+        {
+          "equipment": "A",
+          "duration": 1
+        },
+        {
+          "equipment": "B",
+          "duration": 2
+        }
+      ]
+    }
+  ]
+}

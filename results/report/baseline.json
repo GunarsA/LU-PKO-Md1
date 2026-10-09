@@ -1,0 +1,439 @@
+{
+  "instance": "gym_10_high",
+  "total_waiting": 605,
+  "makespan": 108,
+  "waiting_by_person": {
+    "P1": 52,
+    "P2": 71,
+    "P3": 60,
+    "P4": 29,
+    "P5": 68,
+    "P6": 65,
+    "P7": 71,
+    "P8": 80,
+    "P9": 54,
+    "P10": 55
+  },
+  "operations": [
+    {
+      "person": "P1",
+      "exercise": 1,
+      "equipment": "E3",
+      "start": 0,
+      "end": 2
+    },
+    {
+      "person": "P2",
+      "exercise": 1,
+      "equipment": "E3",
+      "start": 2,
+      "end": 5
+    },
+    {
+      "person": "P3",
+      "exercise": 1,
+      "equipment": "E2",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "person": "P4",
+      "exercise": 1,
+      "equipment": "E1",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "person": "P5",
+      "exercise": 1,
+      "equipment": "E1",
+      "start": 9,
+      "end": 15
+    },
+    {
+      "person": "P6",
+      "exercise": 1,
+      "equipment": "E2",
+      "start": 9,
+      "end": 17
+    },
+    {
+      "person": "P7",
+      "exercise": 1,
+      "equipment": "E2",
+      "start": 17,
+      "end": 27
+    },
+    {
+      "person": "P8",
+      "exercise": 1,
+      "equipment": "E2",
+      "start": 27,
+      "end": 33
+    },
+    {
+      "person": "P9",
+      "exercise": 1,
+      "equipment": "E3",
+      "start": 5,
+      "end": 9
+    },
+    {
+      "person": "P10",
+      "exercise": 1,
+      "equipment": "E2",
+      "start": 33,
+      "end": 37
+    },
+    {
+      "person": "P1",
+      "exercise": 2,
+      "equipment": "E3",
+      "start": 9,
+      "end": 17
+    },
+    {
+      "person": "P2",
+      "exercise": 2,
+      "equipment": "E1",
+      "start": 15,
+      "end": 23
+    },
+    {
+      "person": "P3",
+      "exercise": 2,
+      "equipment": "E1",
+      "start": 23,
+      "end": 25
+    },
+    {
+      "person": "P4",
+      "exercise": 2,
+      "equipment": "E3",
+      "start": 17,
+      "end": 20
+    },
+    {
+      "person": "P5",
+      "exercise": 2,
+      "equipment": "E1",
+      "start": 25,
+      "end": 26
+    },
+    {
+      "person": "P6",
+      "exercise": 2,
+      "equipment": "E2",
+      "start": 37,
+      "end": 38
+    },
+    {
+      "person": "P7",
+      "exercise": 2,
+      "equipment": "E1",
+      "start": 27,
+      "end": 30
+    },
+    {
+      "person": "P8",
+      "exercise": 2,
+      "equipment": "E3",
+      "start": 33,
+      "end": 39
+    },
+    {
+      "person": "P9",
+      "exercise": 2,
+      "equipment": "E1",
+      "start": 30,
+      "end": 35
+    },
+    {
+      "person": "P10",
+      "exercise": 2,
+      "equipment": "E2",
+      "start": 38,
+      "end": 41
+    },
+    {
+      "person": "P1",
+      "exercise": 3,
+      "equipment": "E3",
+      "start": 39,
+      "end": 48
+    },
+    {
+      "person": "P2",
+      "exercise": 3,
+      "equipment": "E1",
+      "start": 35,
+      "end": 41
+    },
+    {
+      "person": "P3",
+      "exercise": 3,
+      "equipment": "E1",
+      "start": 41,
+      "end": 48
+    },
+    {
+      "person": "P4",
+      "exercise": 3,
+      "equipment": "E2",
+      "start": 41,
+      "end": 51
+    },
+    {
+      "person": "P5",
+      "exercise": 3,
+      "equipment": "E1",
+      "start": 48,
+      "end": 57
+    },
+    {
+      "person": "P6",
+      "exercise": 3,
+      "equipment": "E2",
+      "start": 51,
+      "end": 61
+    },
+    {
+      "person": "P7",
+      "exercise": 3,
+      "equipment": "E3",
+      "start": 48,
+      "end": 53
+    },
+    {
+      "person": "P8",
+      "exercise": 3,
+      "equipment": "E2",
+      "start": 61,
+      "end": 62
+    },
+    {
+      "person": "P9",
+      "exercise": 3,
+      "equipment": "E3",
+      "start": 53,
+      "end": 55
+    },
+    {
+      "person": "P10",
+      "exercise": 3,
+      "equipment": "E2",
+      "start": 62,
+      "end": 67
+    },
+    {
+      "person": "P1",
+      "exercise": 4,
+      "equipment": "E1",
+      "start": 57,
+      "end": 67
+    },
+    {
+      "person": "P2",
+      "exercise": 4,
+      "equipment": "E2",
+      "start": 67,
+      "end": 71
+    },
+    {
+      "person": "P3",
+      "exercise": 4,
+      "equipment": "E2",
+      "start": 71,
+      "end": 75
+    },
+    {
+      "person": "P5",
+      "exercise": 4,
+      "equipment": "E2",
+      "start": 75,
+      "end": 79
+    },
+    {
+      "person": "P6",
+      "exercise": 4,
+      "equipment": "E1",
+      "start": 67,
+      "end": 70
+    },
+    {
+      "person": "P7",
+      "exercise": 4,
+      "equipment": "E1",
+      "start": 70,
+      "end": 72
+    },
+    {
+      "person": "P8",
+      "exercise": 4,
+      "equipment": "E3",
+      "start": 62,
+      "end": 65
+    },
+    {
+      "person": "P9",
+      "exercise": 4,
+      "equipment": "E3",
+      "start": 65,
+      "end": 73
+    },
+    {
+      "person": "P1",
+      "exercise": 5,
+      "equipment": "E1",
+      "start": 72,
+      "end": 82
+    },
+    {
+      "person": "P2",
+      "exercise": 5,
+      "equipment": "E2",
+      "start": 79,
+      "end": 86
+    },
+    {
+      "person": "P3",
+      "exercise": 5,
+      "equipment": "E1",
+      "start": 82,
+      "end": 87
+    },
+    {
+      "person": "P5",
+      "exercise": 5,
+      "equipment": "E3",
+      "start": 79,
+      "end": 87
+    },
+    {
+      "person": "P6",
+      "exercise": 5,
+      "equipment": "E1",
+      "start": 87,
+      "end": 96
+    },
+    {
+      "person": "P7",
+      "exercise": 5,
+      "equipment": "E3",
+      "start": 87,
+      "end": 96
+    },
+    {
+      "person": "P8",
+      "exercise": 5,
+      "equipment": "E1",
+      "start": 96,
+      "end": 99
+    },
+    {
+      "person": "P1",
+      "exercise": 6,
+      "equipment": "E2",
+      "start": 86,
+      "end": 96
+    },
+    {
+      "person": "P2",
+      "exercise": 6,
+      "equipment": "E1",
+      "start": 99,
+      "end": 100
+    },
+    {
+      "person": "P5",
+      "exercise": 6,
+      "equipment": "E2",
+      "start": 96,
+      "end": 100
+    },
+    {
+      "person": "P7",
+      "exercise": 6,
+      "equipment": "E1",
+      "start": 100,
+      "end": 101
+    },
+    {
+      "person": "P1",
+      "exercise": 7,
+      "equipment": "E1",
+      "start": 101,
+      "end": 105
+    },
+    {
+      "person": "P2",
+      "exercise": 7,
+      "equipment": "E2",
+      "start": 100,
+      "end": 105
+    },
+    {
+      "person": "P2",
+      "exercise": 8,
+      "equipment": "E3",
+      "start": 105,
+      "end": 108
+    }
+  ],
+  "algorithm": "baseline",
+  "runtime_seconds": 0.00012559996685013175,
+  "priority": [
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "P8",
+    "P9",
+    "P10",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "P8",
+    "P9",
+    "P10",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "P8",
+    "P9",
+    "P10",
+    "P1",
+    "P2",
+    "P3",
+    "P5",
+    "P6",
+    "P7",
+    "P8",
+    "P9",
+    "P1",
+    "P2",
+    "P3",
+    "P5",
+    "P6",
+    "P7",
+    "P8",
+    "P1",
+    "P2",
+    "P5",
+    "P7",
+    "P1",
+    "P2",
+    "P2"
+  ]
+}
